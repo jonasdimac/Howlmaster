@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Hi, I’m a Web Developer and Automation Engineer specializing in **web scraping, backend automation, and intelligent workflow systems**.  
-I build scalable Python-based platforms that extract, process, and automate data from the web, combining strong backend logic with practical automation design.
+Hi, I’m a Software Engineer with experience spanning COBOL mainframe development, backend automation, and modern web platforms. I’ve worked with enterprise systems built on COBOL, DB2, VSAM, and CICS, supporting large-scale transaction processing while also developing automation tools and backend services using modern technologies. I enjoy building systems that automate workflows and bridge legacy mainframe environments with modern applications.
 
 ---
 
